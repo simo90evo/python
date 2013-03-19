@@ -1,4 +1,4 @@
 python
 ======
 
-My first Exercise in python
+My excercises in python
