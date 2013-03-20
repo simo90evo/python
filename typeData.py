@@ -20,4 +20,3 @@ i=1j # complex
 
 
 # value in element --> return true or false it dipends if value is in element (works only with iterable)
-
